@@ -235,7 +235,7 @@ a) **MostLikelyCriticalDamageState**: The Damage State uses a scale from 0 to 4 
    * - 3
      - *Sever Damage* - Major window damage and roof cover loss
    * - 4
-     - *Destruction* - Complete roof failure and/or failure of wall figremjobpane
+     - *Destruction* - Complete roof failure and/or failure of wall
 
 *Ref.:* FEMA HAZUS Hurricane Technical Manual `4.2.3 <https://www.fema.gov/sites/default/files/documents/fema_hazus-hurricane-technical-manual-4.2.3_0.pdf>`_
 
